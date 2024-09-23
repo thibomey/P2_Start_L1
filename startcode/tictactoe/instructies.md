@@ -4,7 +4,6 @@
 - Spelbord aanmaken
 - Spelbord printen
 - Speler input vragen
-- Input controleren
 - Zet van de speler toevoegen aan het spelbord
 - Controleren op winnaar
   - horizontaal
